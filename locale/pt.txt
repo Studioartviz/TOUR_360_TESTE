@@ -1,0 +1,37 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 3
+
+## Skin
+
+### Button
+Button_9A5862EA_8304_59E9_4195_F9BFAD73DA45.label = SERVIÇO
+Button_9A5862EA_8304_59E9_4195_F9BFAD73DA45_mobile.label = SERVIÇO
+Button_9E744673_850D_B8F8_41D7_C209D2027F8C.label = BANHEIRO
+Button_9E744673_850D_B8F8_41D7_C209D2027F8C_mobile.label = BANHEIRO
+Button_9F8BC057_850C_7827_41D7_3EDD786A0658.label = COZINHA
+Button_9F8BC057_850C_7827_41D7_3EDD786A0658_mobile.label = COZINHA
+
+## Media
+
+### Title
+album_9590E03A_831C_F869_41DB_8E6ED3D70810.label = Álbum de Fotos 05
+album_9590E03A_831C_F869_41DB_8E6ED3D70810_0.label = 05
+album_9590E03A_831C_F869_41DB_8E6ED3D70810_1.label = 06
+map_988A425C_8F47_2EA0_41B4_E7A19C2A0D2F.label = PRANCHA_01
+panorama_95A3E7ED_830C_67E8_4193_7A09BD52A396.label = COZINHA
+panorama_96615295_830C_7838_41E0_4A0C480EC77D.label = SERVIÇO
+panorama_96635CF7_830C_69E7_41D6_0FF87CC1BBC2.label = WC
+
+## Action
+
+### URL
+LinkBehaviour_A582558B_853C_D828_41BB_18B5E02A814A.source = https://goo.gl/maps/7go96gvc97E6Go9z5
+LinkBehaviour_A64D5E3B_850B_A868_41C6_07C7203B64F9.source = https://api.whatsapp.com/send?phone=5524988490370&text=Ol%C3%A1,%20bem%20vindo%20a%20VS%20arquitetura,%20como%20podemos%20te%20ajudar?
+LinkBehaviour_A968C9B7_8F4D_5DE0_4197_B9AA956FAA40.source = https://goo.gl/maps/7go96gvc97E6Go9z5
+LinkBehaviour_A968F9B6_8F4D_5DE0_41D1_19ACB4BAF6DC.source = https://api.whatsapp.com/send?phone=5524988490370&text=Ol%C3%A1,%20bem%20vindo%20a%20VS%20arquitetura,%20como%20podemos%20te%20ajudar?
